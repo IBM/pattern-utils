@@ -142,7 +142,18 @@
 
   ![training-object-detection-new](training-object-detection-new.png)
 
-## 7. Credentials
+
+## 7. NLC
+
+* nlc-add-data-to-model.gif
+
+  ![nlc-add-data-to-model](nlc-add-data-to-model.gif)
+
+* nlc-model-overview.png
+
+  ![nlc-model-overview](nlc-model-overview.png)
+
+## 8. Credentials
 
 * credentials-wml.png
 
